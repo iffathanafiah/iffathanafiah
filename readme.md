@@ -1,4 +1,4 @@
-Final year student at Multimedia University, passionate about IT with a focus on networking, web application security, and cryptography. Actively exploring and learning in the fields of web app security (with a red teaming focus) and cryptography through Capture The Flag (CTF) competitions. I enjoy expanding my knowledge and skill set, always eager for new experiences before starting my professional career.
+Final year student at [Multimedia University](https://mmu.edu.my/), passionate about IT with a focus on networking, web application security, and cryptography. Actively exploring and learning in the fields of web app security (with a red teaming focus) and cryptography through Capture The Flag (CTF) competitions. I enjoy expanding my knowledge and skill set, always eager for new experiences before starting my professional career.
 
 Favorite project: [CTF-WriteUp](https://github.com/iffathanafiah/CTF-WriteUp)
 
