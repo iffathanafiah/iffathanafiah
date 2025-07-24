@@ -9,4 +9,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/iffathanafiah/) 🤝
 
 Fun fact: I’m always up for a challenge 🧠—but I also believe in taking short breaks to recharge! ☕😴
 
+My TryHackMe Profile Badge:
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/iffathanafiah.png" alt="Your Image Badge" />
