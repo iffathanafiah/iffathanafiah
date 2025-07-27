@@ -11,4 +11,4 @@ Fun fact: I’m always up for a challenge 🧠—but I also believe in taking sh
 
 My TryHackMe Profile Badge:
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/iffathanafiah.png" alt="Your Image Badge" />
+[![img](https://tryhackme-badges.s3.amazonaws.com/iffathanafiah.png)](https://tryhackme.com/p/iffathanafiah)
